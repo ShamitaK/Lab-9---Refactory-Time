@@ -1,0 +1,11 @@
+C:\Users\shami\source\repos\Lab 9 - Refactoring Time\Lab 9 - Refactoring Time\bin\Debug\netcoreapp3.1\Lab 9 - Refactoring Time.exe
+C:\Users\shami\source\repos\Lab 9 - Refactoring Time\Lab 9 - Refactoring Time\bin\Debug\netcoreapp3.1\Lab 9 - Refactoring Time.deps.json
+C:\Users\shami\source\repos\Lab 9 - Refactoring Time\Lab 9 - Refactoring Time\bin\Debug\netcoreapp3.1\Lab 9 - Refactoring Time.runtimeconfig.json
+C:\Users\shami\source\repos\Lab 9 - Refactoring Time\Lab 9 - Refactoring Time\bin\Debug\netcoreapp3.1\Lab 9 - Refactoring Time.runtimeconfig.dev.json
+C:\Users\shami\source\repos\Lab 9 - Refactoring Time\Lab 9 - Refactoring Time\bin\Debug\netcoreapp3.1\Lab 9 - Refactoring Time.dll
+C:\Users\shami\source\repos\Lab 9 - Refactoring Time\Lab 9 - Refactoring Time\bin\Debug\netcoreapp3.1\Lab 9 - Refactoring Time.pdb
+C:\Users\shami\source\repos\Lab 9 - Refactoring Time\Lab 9 - Refactoring Time\obj\Debug\netcoreapp3.1\Lab 9 - Refactoring Time.csprojAssemblyReference.cache
+C:\Users\shami\source\repos\Lab 9 - Refactoring Time\Lab 9 - Refactoring Time\obj\Debug\netcoreapp3.1\Lab 9 - Refactoring Time.AssemblyInfoInputs.cache
+C:\Users\shami\source\repos\Lab 9 - Refactoring Time\Lab 9 - Refactoring Time\obj\Debug\netcoreapp3.1\Lab 9 - Refactoring Time.AssemblyInfo.cs
+C:\Users\shami\source\repos\Lab 9 - Refactoring Time\Lab 9 - Refactoring Time\obj\Debug\netcoreapp3.1\Lab 9 - Refactoring Time.dll
+C:\Users\shami\source\repos\Lab 9 - Refactoring Time\Lab 9 - Refactoring Time\obj\Debug\netcoreapp3.1\Lab 9 - Refactoring Time.pdb
